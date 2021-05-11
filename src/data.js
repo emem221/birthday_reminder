@@ -1,37 +1,44 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
+    name: "Glory Udoh",
     age: 29,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775161/Woman_texting_on_phone_-_640x481_kpdicb.jpg",
   },
   {
     id: 2,
-    name: 'Hester Hogan',
+    name: "Beatrice Ola",
     age: 32,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775123/Woman_with_dreadlocks_-_640x427_o9gjrx.jpg",
   },
   {
     id: 3,
-    name: 'Larry Little',
+    name: "Joe Prince",
     age: 36,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775168/Man_with_big_smile_-_480x600_vifym8.jpg",
   },
   {
     id: 4,
-    name: 'Sean Walsh',
+    name: "Femi Akintade",
     age: 34,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775131/Male_with_sunglasses_-_481x721_wklefu.jpg",
   },
   {
     id: 5,
-    name: 'Lola Gardner',
+    name: "Sisi Nene",
     age: 29,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775112/Woman_holding_iPad_-_480x600_kkfahn.jpg",
+  },
+  {
+    id: 6,
+    name: "Emeka Eze",
+    age: 25,
+    image:
+      "https://res.cloudinary.com/duxgexbir/image/upload/v1620775147/Man_outdoors_with_jacket_-_480x720_vdu6jm.jpg",
   },
 ];
